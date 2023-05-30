@@ -1,0 +1,7 @@
+- gafas
+- vestido
+- blusa
+- camisa
+- falda
+- pantalon
+- traje de baño
