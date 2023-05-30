@@ -1,4 +1,4 @@
-- gafas
+- zapata
 - vestido
 - blusa
 - camisa
