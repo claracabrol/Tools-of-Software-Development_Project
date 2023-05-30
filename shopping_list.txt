@@ -5,3 +5,4 @@
 - falda
 - pantalon
 - traje de baño
+- crema solar
